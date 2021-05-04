@@ -8,8 +8,8 @@ public class Main {
 		
 		User user = new User();
 		user.setId(1);
-		user.setFirstName("Mahmut Hüseyin");
-		user.setLastName("Bayramoğlu");
+		user.setFirstName("Mahmut HÃ¼seyin");
+		user.setLastName("BayramoÃ°lu");
 		user.setMail("mahmut-b48@hotmail.com");
 		user.setUserName("Reinmann");
 		user.setPassword("*_shetTk*");
@@ -24,7 +24,7 @@ public class Main {
 		user.setFirstName("Erdem");
 		user.setLastName("Yamen");
 		user.setMail("yamenerdem@gmail.com");
-		user.setUserName("sidiklidarari:)");
+		user.setUserName("yamenerdem");
 		user.setPassword("*_sdrKs*");
 		
 		User[] users= {user,user1};
